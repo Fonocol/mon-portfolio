@@ -22,7 +22,7 @@ export default function AboutMe() {
         <div className="text-center md:text-left max-w-3xl w-full">
           <h1 className="text-4xl font-bold text-gray-900">Fono Colince</h1>
           <h2 className="text-xl font-semibold text-gray-700 mt-2">
-            À la recherche d'un stage ou d'une alternance à partir de juin 2025
+            À la recherche d&apos;un stage ou d&apos;une alternance à partir de juin 2025
           </h2>
 
           {/* Contacts */}
@@ -47,7 +47,7 @@ export default function AboutMe() {
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <Code className="text-blue-600" size={20} />
-              <span className="text-gray-700">Travaille sur des modèles de Data Science et algorithmes d'IA</span>
+              <span className="text-gray-700">Travaille sur des modèles de Data Science et algorithmes d&apos;IA</span>
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <Users className="text-blue-600" size={20} />

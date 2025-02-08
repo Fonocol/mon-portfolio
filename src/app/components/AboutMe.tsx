@@ -47,7 +47,7 @@ export default function AboutMe() {
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <Code className="text-blue-600" size={20} />
-              <span className="text-gray-700">Travaille sur des modèles de Data Science et algorithmes d’IA</span>
+              <span className="text-gray-700">Travaille sur des modèles de Data Science et algorithmes d'IA</span>
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <Users className="text-blue-600" size={20} />

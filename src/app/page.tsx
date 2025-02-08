@@ -1,5 +1,4 @@
 // src/app/page.tsx
-import Image from "next/image";
 import AboutMe from "./components/AboutMe";  // Import du composant AboutMe
 import YoutubeCart from "./components/YoutubeCart";
 import Footer from "./components/Footer";

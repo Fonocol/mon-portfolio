@@ -1,6 +1,5 @@
 import Image from "next/image";
-import { Mail, Phone, Download, Briefcase, Code, BookOpen, Users, Linkedin, Youtube } from "lucide-react";
-import { FaFutbol } from "react-icons/fa";
+import { Mail, Phone, Download, Linkedin, Youtube } from "lucide-react";
 import profilePic from "../../../public/images/photo.jpg";
 
 export default function AboutMe() {
